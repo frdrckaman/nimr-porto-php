@@ -123,7 +123,7 @@ if($user->isLoggedIn()) {
 <html lang="en">
 
 <head>
-    <title>Dashboard - Census</title>
+    <title> Add - MRC Porto </title>
     <?php include "head.php";?>
 </head>
 <body>

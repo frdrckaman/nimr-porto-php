@@ -17,7 +17,7 @@ if($user->isLoggedIn()) {
 <html lang="en">
 
 <head>
-    <title> Dashboard - NIMR Porto </title>
+    <title> Dashboard - MRC Porto </title>
     <?php include "head.php";?>
 </head>
 <body>

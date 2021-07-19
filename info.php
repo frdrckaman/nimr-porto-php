@@ -105,7 +105,7 @@ if($user->isLoggedIn()) {
 <html lang="en">
 
 <head>
-    <title>Info - Census</title>
+    <title> Info - MRC Porto</title>
     <?php include "head.php";?>
 </head>
 <body>

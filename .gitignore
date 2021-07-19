@@ -16,6 +16,8 @@
 # AWS User-specific
 .idea/**/aws.xml
 
+php/core/init.php
+
 # Generated files
 .idea/**/contentModel.xml
 

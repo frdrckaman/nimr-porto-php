@@ -50,7 +50,7 @@ if($user->isLoggedIn()) {
 <html lang="en">
 
 <head>
-    <title>Profile - Census</title>
+    <title>Profile - MRC Porto</title>
     <?php include "head.php";?>
 </head>
 <body>

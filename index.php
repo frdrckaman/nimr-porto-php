@@ -78,7 +78,7 @@ if(!$user->isLoggedIn()) {
 <html lang="en">
 
 <head>
-    <title>Login - Census</title>
+    <title>Login - MRC Porto</title>
     <?php include 'head.php'?>
 </head>
 <body>
